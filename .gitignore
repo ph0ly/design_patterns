@@ -1,0 +1,7 @@
+*.class
+target/
+.iml
+classes
+.swp
+.git/
+
